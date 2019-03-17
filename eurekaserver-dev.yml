@@ -1,6 +1,6 @@
 spring:
   application:
-    name: eurekaserver
+    name: eureka-peer
 
 server:
   port: 10000
